@@ -34,14 +34,15 @@ IT Toolkit Pro هو تطبيق شامل مصمم خصيصاً لمهندسي ا�
 ## 📱 لقطات الشاشة
 
 <div align="center">
-  <img src="assets/images/screenshot_home.png" alt="الشاشة الرئيسية" width="250"/>
-  <img src="assets/images/screenshot_network_scanner.png" alt="مسح الشبكة" width="250"/>
-  <img src="assets/images/screenshot_ping_tool.png" alt="أداة Ping" width="250"/>
+  <img src="photo_1_2025-06-19_20-13-18.jpg" alt="الشاشة الرئيسية" width="250"/>
+  <img src="photo_3_2025-06-19_20-13-18.jpg" alt="الشاشة الرئيسية" width="250"/>
+  <img src="photo_6_2025-06-19_20-13-18.jpg" alt="مسح الشبكة" width="250"/>
+  <img src="photo_5_2025-06-19_20-13-18.jpg" alt="أداة Ping" width="250"/>
 </div>
 
 <div align="center">
-  <img src="assets/images/screenshot_wifi_analyzer.png" alt="محلل WiFi" width="250"/>
-  <img src="assets/images/screenshot_port_scanner.png" alt="مسح المنافذ" width="250"/>
+  <img src="photo_7_2025-06-19_20-13-18.jpg" alt="DNS" width="250"/>
+  <img src="photo_4_2025-06-19_20-13-18.jpg" alt="مسح المنافذ" width="250"/>
   <img src="assets/images/screenshot_reports.png" alt="التقارير" width="250"/>
 </div>
 
